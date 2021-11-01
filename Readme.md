@@ -21,7 +21,7 @@
     <li>
       <a href="#about-the-project">About Me</a>
       <ul>
-        <li><a href="#myskils">My Skils</a></li>
+        <li><a href="#myskils">My Skills</a></li>
       </ul>
     </li>
       <li><a href="#contact">Contact</a></li>
@@ -34,13 +34,13 @@
 ## About ME
 
 
-- 🔭 Je suis Actuelement A  [IIM](https://www.iim.fr) en A2 Developemment Web .
+- 🔭 Je suis Actuellement A  [IIM](https://www.iim.fr) en A2 Développement Web.
 
-- 🌱 Mon objectif est de devinir un developpeur Fullstack spécialiser Backend.
+- 🌱 Mon objectif est de devenir un developpeur Fullstack spécialisé Backend.
 
-- 💬 Je suis Actuellement en train d'apprendre Symphony.
+- 💬 Je suis Actuellement en train d'apprendre Symfony.
 
-- ⚡ Fun fact: J'ai recupere un snap grace a un airdrope.
+- ⚡ Fun fact: J'ai récupéré un snap grâce a un airdrop.
 
 <!-- My skils -->
 ## My skills
