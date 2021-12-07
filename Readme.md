@@ -40,7 +40,6 @@
 
 - 💬 Je suis Actuellement en train d'apprendre Symfony.
 
-- ⚡ Fun fact: J'ai récupéré un snap grâce a un airdrop.
 
 <!-- My skils -->
 ## My skills
