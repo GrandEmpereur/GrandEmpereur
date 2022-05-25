@@ -27,6 +27,8 @@
   - [Other <a name = "Other"></a>](#other-)
 - [🎈 Projects <a name="Projects"></a>](#-projects-)
 - [✍️ Connect with me:  <a name = "authors"></a>](#️-connect-with-me--)
+  - [Email <a name = "Email"></a>](#email-)
+  - [Réseaux sociaux <a name = "Reseaux"></a>](#réseaux-sociaux-)
 - [📚 Support <a name = "Support"></a>](#-support-)
 
 ## 🧐 About Me <a name = "about"></a>
@@ -127,7 +129,11 @@
 
 ## ✍️ Connect with me:  <a name = "authors"></a>
 
-My Email 
+### Email <a name = "Email"></a>
+Mon Email de contacte [BartosikPatrickPro@gmail.com]()
+
+### Réseaux sociaux <a name = "Reseaux"></a>
+
 <p align="left">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/patrick-bartosik/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/patrick-bartosik/" height="30" width="40" />
