@@ -41,6 +41,13 @@ Je suis un développeur passionné par la technologie et toujours à la recherch
 ### Autres
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white) ![OVH](https://img.shields.io/badge/-OVH-123F6D?style=flat&logo=ovh&logoColor=white)
 
+## 🎓 Projets
+
+🚧 Work in Progress...
+
+Je suis actuellement en train de travailler sur de nouveaux projets passionnants. Veuillez revenir bientôt pour voir les mises à jour !
+
+
 ## 📞 Contactez-moi
 
 ### Email
