@@ -22,7 +22,7 @@
 
 ## 🧐 À propos de moi
 
-Je suis un développeur passionné par la technologie et toujours à la recherche de nouveaux défis. Avec une solide expérience en développement web et mobile, je suis prêt à relever de nouveaux défis et à apporter des solutions innovantes aux problèmes du quotidien. Mon principal objectif est d'apprendre et de grandir en tant que professionnel tout en aidant les autres à atteindre leurs objectifs.
+Je suis un développeur passionné par la technologie et toujours à la recherche de nouveaux défis. Avec une solide expérience en développement web, je suis prêt à relever de nouveaux défis et à apporter des solutions innovantes aux problèmes du quotidien. Mon principal objectif est d'apprendre et de grandir en tant que professionnel tout en aidant les autres à atteindre leurs objectifs.
 
 ## 💼 Compétences techniques
 
