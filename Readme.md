@@ -43,7 +43,7 @@ Je suis un développeur passionné par la technologie et toujours à la recherch
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/-Adobe_XD-FF26BE?style=flat&logo=adobe-xd&logoColor=white)
 
 ### Autres
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white) ![OVH](https://img.shields.io/badge/-OVH-123F6D?style=flat&logo=ovh&logoColor=white) ![
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white) ![OVH](https://img.shields.io/badge/-OVH-123F6D?style=flat&logo=ovh&logoColor=white)
 
 ## 📞 Contactez-moi
 
