@@ -1,7 +1,7 @@
 # 🚀 Mon Profil GitHub
 
 <p align="center">
-  <img src="./images/logoGE-principal.svg" alt="Profil GitHub" width="200" height="200">
+  <img src="./img/logoGE-principal.svg" alt="Profil GitHub" width="200" height="200">
 </p>
 
 ## 📝 Sommaire
