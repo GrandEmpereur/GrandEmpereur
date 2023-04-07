@@ -11,7 +11,6 @@
 - [💼 Compétences techniques](#-compétences-techniques)
   - [Développement Frontend](#développement-frontend)
   - [Développement Backend](#développement-backend)
-  - [Développement Mobile](#développement-mobile)
   - [Bases de données](#bases-de-données)
   - [Logiciels](#logiciels)
   - [Autres](#autres)
@@ -32,9 +31,6 @@ Je suis un développeur passionné par la technologie et toujours à la recherch
 
 ### Développement Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat&logo=symfony&logoColor=white)
-
-### Développement Mobile
-<!-- Veuillez ajouter les compétences de développement mobile ici, si nécessaire. -->
 
 ### Bases de données
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
