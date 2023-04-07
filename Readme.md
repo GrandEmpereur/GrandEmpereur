@@ -1,4 +1,6 @@
-# 🚀 Mon Profil GitHub
+<p align="center">
+  # 🚀 Mon Profil GitHub
+</p>
 
 <p align="center">
   <img src="./img/logoGE-principal.svg" alt="Profil GitHub" width="200" height="200">
