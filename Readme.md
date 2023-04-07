@@ -1,146 +1,59 @@
+# 🚀 Mon Profil GitHub
+
 <p align="center">
-  <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
+  <img src="https://i.imgur.com/6wj0hh6.jpg" alt="Profil GitHub" width="200" height="200">
 </p>
 
-<h3 align="center">My Profils ReadMe</h3>
+## 📝 Sommaire
 
-<div align="center">
+- [📝 Sommaire](#-sommaire)
+- [🧐 À propos de moi](#-à-propos-de-moi)
+- [💼 Compétences techniques](#-compétences-techniques)
+  - [Développement Frontend](#développement-frontend)
+  - [Développement Backend](#développement-backend)
+  - [Développement Mobile](#développement-mobile)
+  - [Bases de données](#bases-de-données)
+  - [Logiciels](#logiciels)
+  - [Autres](#autres)
+- [🎓 Projets](#-projets)
+- [📞 Contactez-moi](#-contactez-moi)
+  - [Email](#email)
+  - [Réseaux sociaux](#réseaux-sociaux)
+- [📚 Support](#-support)
 
-[![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![Version](https://img.shields.io/badge/version-1.1.0-blue.svg)]()
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)]()
-<img src="https://komarev.com/ghpvc/?username=GrandEmpereur&label=Profile%20views&color=0e75b6&style=flat" /> 
-</div>
+## 🧐 À propos de moi
 
----
-## 📝 Table of Contents <a href="table of contents"></a>
+Je suis un développeur passionné par la technologie et toujours à la recherche de nouveaux défis. Avec une solide expérience en développement web et mobile, je suis prêt à relever de nouveaux défis et à apporter des solutions innovantes aux problèmes du quotidien. Mon principal objectif est d'apprendre et de grandir en tant que professionnel tout en aidant les autres à atteindre leurs objectifs.
 
-- [📝 Table of Contents <a href="table of contents"></a>](#-table-of-contents-)
-- [🧐 About Me <a name = "about"></a>](#-about-me-)
-- [🏋️ Hard Skills <a name = "hard_skills"></a>](#️-hard-skills-)
-  - [Frontend Development <a name = "Frontend"></a>](#frontend-development-)
-  - [Backend Development <a name = "Backend"></a>](#backend-development-)
-  - [Mobil Development <a name = "Mobil"></a>](#mobil-development-)
-  - [Database <a name = "Databases"></a>](#database-)
-  - [Software <a name = "Software"></a>](#software-)
-  - [Other <a name = "Other"></a>](#other-)
-- [🎈 Projects <a name="Projects"></a>](#-projects-)
-- [✍️ Connect with me:  <a name = "authors"></a>](#️-connect-with-me--)
-  - [Email <a name = "Email"></a>](#email-)
-  - [Réseaux sociaux <a name = "Reseaux"></a>](#réseaux-sociaux-)
-- [📚 Support <a name = "Support"></a>](#-support-)
+## 💼 Compétences techniques
 
-## 🧐 About Me <a name = "about"></a>
+### Développement Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white) ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat&logo=nuxt.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 
+### Développement Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat&logo=symfony&logoColor=white)
 
-## 🏋️ Hard Skills <a name = "hard_skills"></a>
+### Développement Mobile
+<!-- Veuillez ajouter les compétences de développement mobile ici, si nécessaire. -->
 
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=grandempereur&show_icons=true&locale=en&layout=compact" alt="grandempereur" /></p>
+### Bases de données
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-### Frontend Development <a name = "Frontend"></a>
+### Logiciels
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/-Adobe_XD-FF26BE?style=flat&logo=adobe-xd&logoColor=white)
 
-<p>
+### Autres
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white) ![OVH](https://img.shields.io/badge/-OVH-123F6D?style=flat&logo=ovh&logoColor=white) ![
 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">      
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a>
+## 📞 Contactez-moi
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
+### Email
+N'hésitez pas à m'envoyer un e-mail à [BartosikPatrickPro@gmail.com](mailto:BartosikPatrickPro@gmail.com) pour toute question ou proposition de collaboration.
 
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-  </a>
+### Réseaux sociaux
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+- [Twitter](https://twitter.com/your-twitter-handle)
+- [GitHub](https://github.com/your-github-username)
 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a>
-
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  </a>
-  
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> 
-  </a>
-
-
-### Backend Development <a name = "Backend"></a>
-
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a>
-
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-
-  <a href="https://symfony.com" target="_blank" rel="noreferrer"> 
-    <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/>
-  </a>
-
-### Mobil Development <a name = "Mobil"></a>
-
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> 
-  </a>
-
-### Database <a name = "Databases"></a>
-
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a>
-
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> 
-  </a>
-
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a>
-
-### Software <a name = "Software"></a>
-
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a>
-
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
-  </a>
-
-### Other <a name = "Other"></a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a>
-
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
-</p>
-
-## 🎈 Projects <a name="Projects"></a>
-
-## ✍️ Connect with me:  <a name = "authors"></a>
-
-### Email <a name = "Email"></a>
-Mon Email de contacte [BartosikPatrickPro@gmail.com]()
-
-### Réseaux sociaux <a name = "Reseaux"></a>
-
-<p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/patrick-bartosik/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/patrick-bartosik/" height="30" width="40" />
-  </a>
-  
-  <a href="https://discord.gg/Grand Empereur#2749" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Grand Empereur#2749" height="30" width="40" />
-  </a>
-</p>
-
+## 📚 Support
+Si vous avez besoin d'aide ou si vous avez des questions concernant mes projets, vous pouvez ouvrir une issue sur le dépôt GitHub correspondant ou me contacter directement par e-mail ou via mes réseaux sociaux.
