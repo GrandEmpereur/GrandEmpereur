@@ -54,9 +54,9 @@ Je suis actuellement en train de travailler sur de nouveaux projets passionnants
 N'hésitez pas à m'envoyer un e-mail à [BartosikPatrickPro@gmail.com](mailto:BartosikPatrickPro@gmail.com) pour toute question ou proposition de collaboration.
 
 ### Réseaux sociaux
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Twitter](https://twitter.com/your-twitter-handle)
-- [GitHub](https://github.com/your-github-username)
+- [LinkedIn](https://www.linkedin.com/in/patrick-bartosik/)
+- [Twitter](https://twitter.com/GEmpereurDev)
+- [GitHub](https://github.com/GrandEmpereur)
 
 ## 📚 Support
 Si vous avez besoin d'aide ou si vous avez des questions concernant mes projets, vous pouvez ouvrir une issue sur le dépôt GitHub correspondant ou me contacter directement par e-mail ou via mes réseaux sociaux.
