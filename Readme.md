@@ -1,62 +1,71 @@
-# 🚀 Mon Profil GitHub
+<h1 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Nelson"> I'm <a href="https://github.com/nelsonmurua913/" color="white" target="_blank">Patrick </a>, also known as Grand Empereur</h1>
 
 <p align="center">
-  <img src="./img/logoGE-principal.svg" alt="Profil GitHub" width="200" height="200">
+  <img src="./img/logoGE-principal.svg" alt="GitHub Profile" width="200" height="200">
 </p>
 
-## 📝 Sommaire
+<samp>
+Welcome to my digital cosmos! 🌌 I'm Patrick, a passionate Full Stack Developer dedicated to exploring and crafting dynamic solutions within the vibrant world of JavaScript and its expansive ecosystem. With every line of code, I strive to bridge the gap between sophisticated backend logic and intuitive front-end experiences.
+<br><br>
 
-- [📝 Sommaire](#-sommaire)
-- [🧐 À propos de moi](#-à-propos-de-moi)
-- [💼 Compétences techniques](#-compétences-techniques)
-  - [Développement Frontend](#développement-frontend)
-  - [Développement Backend](#développement-backend)
-  - [Bases de données](#bases-de-données)
-  - [Logiciels](#logiciels)
-  - [Autres](#autres)
-- [🎓 Projets](#-projets)
-- [📞 Contactez-moi](#-contactez-moi)
-  - [Email](#email)
-  - [Réseaux sociaux](#réseaux-sociaux)
-- [📚 Support](#-support)
+My journey is a perpetual quest for knowledge, powered by an insatiable curiosity for all things JavaScript - from Node.js to React, and beyond. I believe in the transformative power of technology and am committed to leveraging it to create impactful, accessible, and efficient applications.
+<br><br>
 
-## 🧐 À propos de moi
+Dive into my portfolio and join me on this exciting voyage through the limitless possibilities of code. Let's innovate, create, and elevate together. Let's turn visions into reality, one commit at a time. 🔥
+</samp>
 
-Je suis un développeur passionné par la technologie et toujours à la recherche de nouveaux défis. Avec une solide expérience en développement web, je suis prêt à relever de nouveaux défis et à apporter des solutions innovantes aux problèmes du quotidien. Mon principal objectif est d'apprendre et de grandir en tant que professionnel tout en aidant les autres à atteindre leurs objectifs.
+## 🔥 Coding Odyssey
 
-## 💼 Compétences techniques
+<p align="center">
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=GrandEmpereur&theme=tokyonight_duo&hide_border=true" alt="GrandEmpereur" />
+  <p align="center"> All day I dream about code 🔥 </p>
+</p>
 
-### Développement Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white) ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat&logo=nuxt.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+## 🛠️ My Favorite Tools
 
-### Développement Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat&logo=symfony&logoColor=white) ![API REST](https://img.shields.io/badge/-API_REST-0298c3?style=flat&logoColor=white)
+### 👨‍💻 Programming Languages
 
-### Bases de données
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+<p>
+    <a href=""><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="#"><img alt="TypeScript" src="https://badges.aleen42.com/src/typescript.svg"></a>
+</p>
 
-### Logiciels
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/-Adobe_XD-FF26BE?style=flat&logo=adobe-xd&logoColor=white)
+### 🧰 Frameworks and Libraries
 
-### Autres
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white) ![OVH](https://img.shields.io/badge/-OVH-123F6D?style=flat&logo=ovh&logoColor=white)
+<p>
+    <a href="#"><img alt="React" src="https://badges.aleen42.com/src/react.svg"></a>
+    <a href=""><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
+    <a href="#"><img alt="TailwindCSS" src="https://badges.aleen42.com/src/tailwindcss.svg"></a>
+    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
+</p>
 
-## 🎓 Projets
+### 🗄️ Databases and Cloud Hosting
 
-🚧 Work in Progress...
+<p>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
+    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
+</p>
 
-Je suis actuellement en train de travailler sur de nouveaux projets passionnants. Veuillez revenir bientôt pour voir les mises à jour !
+### 💻 Software and Tools
 
+<p>
+    <a href="#"><img alt="Docker" src="https://badges.aleen42.com/src/docker.svg"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="Github" src="https://badges.aleen42.com/src/github.svg"></a>
+    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+</p>
 
-## 📞 Contactez-moi
+## 📞 Contact Me
 
 ### Email
-N'hésitez pas à m'envoyer un e-mail à [BartosikPatrickPro@gmail.com](mailto:BartosikPatrickPro@gmail.com) pour toute question ou proposition de collaboration.
+Feel free to send me an email at [BartosikPatrickPro@gmail.com](mailto:BartosikPatrickPro@gmail.com) for any questions or collaboration proposals.
 
-### Réseaux sociaux
+### Social Networks
 - [LinkedIn](https://www.linkedin.com/in/patrick-bartosik/)
 - [Twitter](https://twitter.com/GEmpereurDev)
 - [GitHub](https://github.com/GrandEmpereur)
 
 ## 📚 Support
-Si vous avez besoin d'aide ou si vous avez des questions concernant mes projets, vous pouvez ouvrir une issue sur le dépôt GitHub correspondant ou me contacter directement par e-mail ou via mes réseaux sociaux.
+If you need help or have any questions regarding my projects, you can open an issue on the corresponding GitHub repository or contact me directly via email or through my social networks.
