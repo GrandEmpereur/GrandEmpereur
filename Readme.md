@@ -32,20 +32,47 @@ Dive into my portfolio and join me on this exciting voyage through the limitless
 
 ### 🧰 Frameworks and Libraries
 
+#### Front-end
+
 <p>
+    <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white"></a>
+    <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white"></a>
+    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="#"><img alt="TypeScript" src="https://badges.aleen42.com/src/typescript.svg"></a>
     <a href="#"><img alt="React" src="https://badges.aleen42.com/src/react.svg"></a>
-    <a href=""><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
+    <a href="#"><img alt="NextJS" src="https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=next.js&logoColor=white"></a>
+    <a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?logo=vue.js&logoColor=white"></a>
+    <a href="#"><img alt="NuxtJS" src="https://img.shields.io/badge/Nuxt.js-%2300DC82.svg?style=flat&logo=nuxt.js&logoColor=white"></a>
     <a href="#"><img alt="TailwindCSS" src="https://badges.aleen42.com/src/tailwindcss.svg"></a>
-    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
 </p>
+
+#### Back-end
+
+<p>  
+    <a href="#"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js-%2343853D.svg?logo=node.js&logoColor=white"></a>
+    <a href="#"><img alt="API" src="https://img.shields.io/badge/API-%231572B6.svg?logo=api&logoColor=white"></a>
+    <a href="#"><img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-%23E10098.svg?logo=graphql&logoColor=white"></a>
+    <a href="#"><img alt="AdonisJS" src="https://img.shields.io/badge/AdonisJS-%23FFF.svg?logo=adonisjs&logoColor=black"></a>
+    <a href="#"><img alt="Prisma" src="https://img.shields.io/badge/Prisma-%232D3748.svg?logo=prisma&logoColor=white"></a>
+    <a href="#"><img alt="Koa" src="https://img.shields.io/badge/Koa-%23333333.svg?logo=koa&logoColor=white"></a>
+</p>
+
 
 ### 🗄️ Databases and Cloud Hosting
 
 <p>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white"></a>
-    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
+    <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
+    <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?logo=postgresql&logoColor=white"></a>
+    <a href="#"><img alt="Supabase" src="https://img.shields.io/badge/Supabase-%2343853D.svg?logo=supabase&logoColor=white"></a>
+    <a href="#"><img alt="PlanetScale" src="https://img.shields.io/badge/PlanetScale-%23000000.svg?logo=planetscale&logoColor=white"></a>
+    <a href="#"><img alt="Strapi" src="https://img.shields.io/badge/Strapi-%238C4BF1.svg?logo=strapi&logoColor=white"></a>
+    <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white"></a>
+    <a href="#"><img alt="Neon" src="https://img.shields.io/badge/Neon-%23000.svg?style=flat&logo=appveyor&logoColor=green"></a>
+
 </p>
+
 
 ### 💻 Software and Tools
 
@@ -55,6 +82,10 @@ Dive into my portfolio and join me on this exciting voyage through the limitless
     <a href="#"><img alt="Github" src="https://badges.aleen42.com/src/github.svg"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=white"></a>
+    <a href="#"><img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white"></a>
+    <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-black?logo=figma&logoColor=white"></a>
+    <a href="#"><img alt="Bun" src="https://img.shields.io/badge/Bun-black"></a>
 </p>
 
 ## 📞 Contact Me
