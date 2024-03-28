@@ -37,6 +37,7 @@ Dive into my portfolio and join me on this exciting voyage through the limitless
 <p>
     <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white"></a>
+    <a href="#"><img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699.svg?logo=sass&logoColor=white"></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="#"><img alt="TypeScript" src="https://badges.aleen42.com/src/typescript.svg"></a>
     <a href="#"><img alt="React" src="https://badges.aleen42.com/src/react.svg"></a>
@@ -50,7 +51,7 @@ Dive into my portfolio and join me on this exciting voyage through the limitless
 
 <p>  
     <a href="#"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js-%2343853D.svg?logo=node.js&logoColor=white"></a>
-    <a href="#"><img alt="API" src="https://img.shields.io/badge/API-%231572B6.svg?logo=api&logoColor=white"></a>
+    <a href="#"><img alt="RestAPI" src="https://img.shields.io/badge/RestAPI-%231572B6.svg?logo=restapi&logoColor=white"></a>
     <a href="#"><img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-%23E10098.svg?logo=graphql&logoColor=white"></a>
     <a href="#"><img alt="AdonisJS" src="https://img.shields.io/badge/AdonisJS-%23FFF.svg?logo=adonisjs&logoColor=black"></a>
     <a href="#"><img alt="Prisma" src="https://img.shields.io/badge/Prisma-%232D3748.svg?logo=prisma&logoColor=white"></a>
