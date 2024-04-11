@@ -42,8 +42,6 @@ Dive into my portfolio and join me on this exciting voyage through the limitless
     <a href="#"><img alt="TypeScript" src="https://badges.aleen42.com/src/typescript.svg"></a>
     <a href="#"><img alt="React" src="https://badges.aleen42.com/src/react.svg"></a>
     <a href="#"><img alt="NextJS" src="https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=next.js&logoColor=white"></a>
-    <a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?logo=vue.js&logoColor=white"></a>
-    <a href="#"><img alt="NuxtJS" src="https://img.shields.io/badge/Nuxt.js-%2300DC82.svg?style=flat&logo=nuxt.js&logoColor=white"></a>
     <a href="#"><img alt="TailwindCSS" src="https://badges.aleen42.com/src/tailwindcss.svg"></a>
 </p>
 
