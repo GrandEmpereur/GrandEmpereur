@@ -94,7 +94,6 @@ Feel free to send me an email at [BartosikPatrickPro@gmail.com](mailto:BartosikP
 
 ### Social Networks
 - [LinkedIn](https://www.linkedin.com/in/patrick-bartosik/)
-- [Twitter](https://twitter.com/GEmpereurDev)
 - [GitHub](https://github.com/GrandEmpereur)
 
 ## 📚 Support
