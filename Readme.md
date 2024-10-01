@@ -31,7 +31,17 @@ My journey is a perpetual quest for knowledge, powered by an insatiable curiosit
 Dive into my portfolio and join me on this exciting voyage through the limitless possibilities of code. Let's innovate, create, and elevate together. Let's turn visions into reality, one commit at a time. 🔥
 </samp>
 
-## 🔥 Coding Odyssey
+ **<h3 align="left">🔥 GitHub Stats</h3>**
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=GrandEmpereur&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=GrandEmpereur&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
+</p>
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=GrandEmpereur&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=GrandEmpereur&repo=Bubble&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub repo-card Card" />
+</p>
 
 <p align="center">
 	<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=GrandEmpereur&theme=tokyonight_duo&hide_border=true" alt="GrandEmpereur" />
