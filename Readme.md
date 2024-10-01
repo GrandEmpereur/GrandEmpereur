@@ -27,7 +27,7 @@ Dive into my portfolio and join me on this exciting voyage through the limitless
 
  **<h3 align="left">🔥 GitHub Stats</h3>**
 
-<div align="center" style=" display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 40px;" width='100%'>
+<div align="left" style=" display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 40px;" width='100%'>
   <div style=" display: flex; gap: 40px;" > 
     <img width='50%' src="https://github-readme-stats.vercel.app/api?username=GrandEmpereur&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
     <img width='50%'  src="https://streak-stats.demolab.com/?user=GrandEmpereur&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
