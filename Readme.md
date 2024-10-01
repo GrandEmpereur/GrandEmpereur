@@ -12,7 +12,7 @@
 	<a href="https://github.com/GrandEmpereur" target="_blank">
 		<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px">
 	</a>
-	<a href="BartosikPatrickPro@gmail.com" target="_blank">
+	<a href="mailto:BartosikPatrickPro@gmail.com" target="_blank">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px">
 	</a>
 </p>
