@@ -43,11 +43,6 @@ Dive into my portfolio and join me on this exciting voyage through the limitless
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=GrandEmpereur&repo=Bubble&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub repo-card Card" />
 </p>
 
-<p align="center">
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=GrandEmpereur&theme=tokyonight_duo&hide_border=true" alt="GrandEmpereur" />
-  <p align="center"> All day I dream about code 🔥 </p>
-</p>
-
 ## 🛠️ My Favorite Tools
 
 ### 👨‍💻 Programming Languages
