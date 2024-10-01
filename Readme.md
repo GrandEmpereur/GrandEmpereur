@@ -17,6 +17,8 @@
 	</a>
 </p>
 
+![Profile views](https://komarev.com/ghpvc/?username=GrandEmpereur&label=Profile%20views&color=0e75b6&style=flat)
+
 <samp>
 Welcome to my digital cosmos! 🌌 I'm Patrick, a passionate Full Stack Developer dedicated to exploring and crafting dynamic solutions within the vibrant world of JavaScript and its expansive ecosystem. With every line of code, I strive to bridge the gap between sophisticated backend logic and intuitive front-end experiences.
 <br><br>
