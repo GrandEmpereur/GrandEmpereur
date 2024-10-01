@@ -103,8 +103,6 @@ Dive into my portfolio and join me on this exciting voyage through the limitless
     <a href="#"><img alt="PlanetScale" src="https://img.shields.io/badge/PlanetScale-%23000000.svg?logo=planetscale&logoColor=white"></a>
     <a href="#"><img alt="Strapi" src="https://img.shields.io/badge/Strapi-%238C4BF1.svg?logo=strapi&logoColor=white"></a>
     <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white"></a>
-    <a href="#"><img alt="Neon" src="https://img.shields.io/badge/Neon-%23000.svg?style=flat&logo=appveyor&logoColor=green"></a>
-
 </p>
 
 
