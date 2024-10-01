@@ -4,6 +4,9 @@
   <img src="./img/logoGE-principal.svg" alt="GitHub Profile" width="200" height="200">
 </p>
 
+**<h3 align="left">Connect with me:</h3>** 
+<p align="left"><a href="https://www.linkedin.com/in/sushil-magare" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/Sushil__SM" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/GrandEmpereur" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="BartosikPatrickPro@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+
 <samp>
 Welcome to my digital cosmos! 🌌 I'm Patrick, a passionate Full Stack Developer dedicated to exploring and crafting dynamic solutions within the vibrant world of JavaScript and its expansive ecosystem. With every line of code, I strive to bridge the gap between sophisticated backend logic and intuitive front-end experiences.
 <br><br>
