@@ -1,22 +1,9 @@
 ![👋 Hi, my name is Patrick Bartosik](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8)
 
-<h1 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Nelson"> I'm <a href="https://github.com/nelsonmurua913/" color="white" target="_blank">Patrick </a>, also known as Grand Empereur</h1>
+<h1 align="center" >Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Nelson"> I'm <a href="https://github.com/nelsonmurua913/" color="white" target="_blank">Patrick </a>, also known as Grand Empereur</h1>
 
 <p align="center">
   <img src="./img/logoGE-principal.svg" alt="GitHub Profile" width="200" height="200">
-</p>
-
-**<h3 align="left">Connect with me:</h3>** 
-<p align="left">
-	<a href="https://www.linkedin.com/in/patrick-bartosik/" target="_blank">
-		<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28" style="margin-right: 4px">
-	</a> 
-	<a href="https://github.com/GrandEmpereur" target="_blank">
-		<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px">
-	</a>
-	<a href="mailto:BartosikPatrickPro@gmail.com" target="_blank">
-		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px">
-	</a>
 </p>
 
 ![Profile views](https://komarev.com/ghpvc/?username=GrandEmpereur&label=Profile%20views&color=0e75b6&style=flat)
@@ -31,13 +18,21 @@ My journey is a perpetual quest for knowledge, powered by an insatiable curiosit
 Dive into my portfolio and join me on this exciting voyage through the limitless possibilities of code. Let's innovate, create, and elevate together. Let's turn visions into reality, one commit at a time. 🔥
 </samp>
 
+**<h3 align="left">Rapid Fire</h3>**
+
+- 💼 I am currently working at Euroclear as an IT developer and I am freelancing alongside my work.
+- 🌱 I am currently learning: **📚 How to become a good developer**
+- 💬 Ask me about: **💡 JavaScript, React, Node.js, Adonis JS, and Supabase**
+- ⚡ Fun fact: **📱 I once debugged code on my phone in the Paris metro!**
+
  **<h3 align="left">🔥 GitHub Stats</h3>**
 
-<div align="left">
-  <img width="100%" height='50%' src="https://github-readme-stats.vercel.app/api?username=GrandEmpereur&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
-  <img width="100%" src="https://streak-stats.demolab.com/?user=GrandEmpereur&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=GrandEmpereur&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
-</p>
+<div align="center" style=" display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 40px;" width='100%'>
+  <img width='50%' src="https://github-readme-stats.vercel.app/api?username=GrandEmpereur&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
+  <img width='50%'  src="https://streak-stats.demolab.com/?user=GrandEmpereur&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
+  <img width='50%'  src="https://github-readme-stats.vercel.app/api/top-langs?username=GrandEmpereur&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+</div>
+
 
 ## 🛠️ My Favorite Tools
 
@@ -53,14 +48,34 @@ Dive into my portfolio and join me on this exciting voyage through the limitless
 #### Front-end
 
 <p>
-    <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="#"><img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699.svg?logo=sass&logoColor=white"></a>
-    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="#"><img alt="TypeScript" src="https://badges.aleen42.com/src/typescript.svg"></a>
-    <a href="#"><img alt="React" src="https://badges.aleen42.com/src/react.svg"></a>
-    <a href="#"><img alt="NextJS" src="https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=next.js&logoColor=white"></a>
-    <a href="#"><img alt="TailwindCSS" src="https://badges.aleen42.com/src/tailwindcss.svg"></a>
+    <a href="#">
+        <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white">
+    </a>
+    <a href="#">
+        <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white">
+    </a>
+    <a href="#">
+        <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699.svg?logo=sass&logoColor=white">
+    </a>
+    <a href="#">
+        <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black">
+    </a>
+    <a href="#">
+        <img alt="TypeScript" src="https://badges.aleen42.com/src/typescript.svg">
+    </a>
+    <a href="#">
+        <img alt="React" src="https://badges.aleen42.com/src/react.svg">
+    </a>
+    <a href="#">
+        <img alt="NextJS" src="https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=next.js&logoColor=white">
+    </a>
+    <a href="#">
+        <img alt="TailwindCSS" src="https://badges.aleen42.com/src/tailwindcss.svg">
+    </a>
+    <a href="#">
+        <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" alt="Angular" style="margin-right: 4px">
+    </a>
+
 </p>
 
 #### Back-end
@@ -105,14 +120,18 @@ Dive into my portfolio and join me on this exciting voyage through the limitless
     <a href="#"><img alt="Bun" src="https://img.shields.io/badge/Bun-black"></a>
 </p>
 
-## 📞 Contact Me
+## 📞 Contact with Me
+<p align="left">
+	<a href="https://www.linkedin.com/in/patrick-bartosik/" target="_blank">
+		<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28" style="margin-right: 4px">
+	</a> 
+	<a href="https://github.com/GrandEmpereur" target="_blank">
+		<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px">
+	</a>
+</p>
 
 ### Email
 Feel free to send me an email at [BartosikPatrickPro@gmail.com](mailto:BartosikPatrickPro@gmail.com) for any questions or collaboration proposals.
-
-### Social Networks
-- [LinkedIn](https://www.linkedin.com/in/patrick-bartosik/)
-- [GitHub](https://github.com/GrandEmpereur)
 
 ## 📚 Support
 If you need help or have any questions regarding my projects, you can open an issue on the corresponding GitHub repository or contact me directly via email or through my social networks.
